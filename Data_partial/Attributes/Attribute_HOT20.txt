@@ -1,0 +1,11 @@
+BC:Board,Bus,Coin,Coke,Card,Drive,Forest,Forest2,Fruit,Hand,Kangaroo,Paper,Toy1,Toy2,Worker, 
+DEF:Book,Excavator,Hand,Kangaroo,Player,Rubik,Pedestrian2,
+FM:Basketball,Bus,Bus2,Coke,
+IV:Bus2,Campus,Car3,Pedestrian,Pedestrian2,Student,Rider1,Rider2,Toy2,Trucker,
+IPR:Board,Book,Car,Car2,Coke,Card,Drive,Excavator,Face,Face2,Player,Paper,Rubik,
+LR:Basketball,Bus,Worker,Car3,Pedestrian2,Rider1,Rider2,
+MB:Ball,Basketball,Face,Kangaroo,
+OCC:Ball,Basketball,Bus2,Campus,Car3,Card,Excavator,Face2,Forest,Forest2,Fruit,Playground,Pedestrian2,Toy1,Board,Car,Rider1,Rider2,Trucker,Toy2
+OPR:Board,Book,Car,Car2,Coke,Drive,Excavator,Face,Face2,Hand,Kangaroo,Player,Rubik,Toy2,
+OV:Trucker,
+SV:Ball,Bus2,Campus,Car,Car2,Car3,Coke,Drive,Excavator,Face,Face2,Hand,Kangaroo,Player,Playground,Pedestrian,Student,Toy2,Worker,Board,Rider1,Rider2,Trucker,

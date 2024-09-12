@@ -1,0 +1,10 @@
+BC:bicycle2,boat8,bottle,car1,car4,double,double1,double3,double4,double5,doublebicycle,doublecar,doublecar1,doublecar2,doublecar3,doublecar6,doublecar7,doublecar8,electriccar1,human8,many_man,motorcycle1,triple,triple1,triple2
+DEF:airplane11,airplane3,airplane4,airplane5,airplane7,bicycle2,boat10,boat4,boat6,boat7,boat8,boat9,bottle,camera,car1,car3,car5,car6,double2,double4,double5,doublebicycle,doublecar1,doublecar3,doublecar5,doublecar6,doublecar7,doublecar8,electriccar1,girl,human,human2,human3,human4,human7,human8,many_man,motorcycle,motorcycle1,triple,triple2
+FM:bottle,camera,double4,double5,doublecar8,girl,human,human2,human3,human9,man,man1,man2,man3,triple
+IV:bicycle2,boat12,camera,car,car1,car2,car3,double,double1,double2,doublecar2,doublecar3,doublecar4,doublecar5,doublecar6,doublecar7,electriccar,electriccar1,human,human1,human2,human3,human4
+LR:airplane,airplane1,airplane12,airplane13,airplane14,airplane2,airplane3,airplane9,boat,boat1,boat10,boat12,boat2,boat3,boat5,double3,double4,double5,doublecar,doublecar7,human5,human6,human7,human8,human9,many_man,triple2
+MB:bicycle,double,double1,double2,double4,double5,girl,human,human1,human2,human3,human4,human5,human6,human7,human8,human9,many_man,triple,triple1,triple2
+OCC:airplane10,airplane11,airplane4,airplane5,airplane6,airplane7,airplane8,airplane9,bicycle,bicycle1,bicycle2,bicycle3,boat11,boat12,boat4,boat8,bottle,camera,car,car1,car2,car3,car6,double,double5,doublebicycle,doublecar,doublecar1,doublecar3,doublecar4,doublecar5,doublecar6,doublecar7,doublecar8,electriccar,girl,human,human2,human3,human4,human9,man2,man3,motorcycle1,triple
+OPR:airplane10,airplane11,airplane4,airplane8,bicycle2,car,double4,double5,girl,human1,man,man1,man2,man3,motorcycle,triple,triple2
+OV:airplane14,bicycle,camera,car,doublecar8,human3,man,man3
+SV:bicycle,boat11,car,car6,doublebicycle,many_man,motorcycle1
